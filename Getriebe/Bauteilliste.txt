@@ -1,0 +1,22 @@
+Motor:
+https://www.omc-stepperonline.com/de/p-serie-ip65-wasserdicht-nema-34-closed-loop-schrittmotor-4-5nm-637-38oz-in-mit-encoder-1000ppr-4000cpr-34e1kip65-45
+
+
+Festlager:
+https://www.maedler.de/product/1643/1629/2209/pendelrollenlager-skf
+
+
+Loslager:
+https://www.maedler.de/Article/SS-6204-2RS-MAE
+
+
+Spannring Innen:
+https://www.maedler.de/Article/61742500
+
+
+Spannring Außen Fest:
+https://www.maedler.de/Article/61765200
+
+
+Spannring Außen Lose:
+https://www.maedler.de/Article/61764700
