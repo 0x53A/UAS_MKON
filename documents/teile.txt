@@ -1,2 +1,4 @@
 Z001 | Flansch
 Z002 | Lager (Crossed roller bearing series 18 according to DIN 616 )
+Z003 | Zahnkranz
+Z004 | Schnecke | Modul 2 | Mädler 30130100
