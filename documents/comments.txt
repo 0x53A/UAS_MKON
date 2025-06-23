@@ -1,3 +1,18 @@
 Lagerung
 
 https://docs.google.com/document/d/1dBT2tm0_6i_S_eh-jEBslvspYMVvxAt9h55A3eT4dC8/edit?tab=t.0
+
+
+
+Flansch: 107,2 mm Innendurchmesser
+
+Flansch: xxx Außendurchmesser
+
+
+Lager: https://www.rhia.de/datasheet/en/sx011824
+
+Dimension series 18 according to DIN 616 
+
+di: 120 mm
+Da: 150 mm
+H: 16 mm

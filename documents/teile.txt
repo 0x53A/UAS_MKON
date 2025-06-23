@@ -1,1 +1,2 @@
 Z001 | Flansch
+Z002 | Lager (Crossed roller bearing series 18 according to DIN 616 )
