@@ -7,3 +7,24 @@ ChatGPT: distance center of gear ring to worm shaft: 90mm
 ==> Distanz center to outer wall: 132,925 mm
 
 (+16 mm !!!)
+
+
+------------------
+
+
+Schrauben:
+
+Motor an Motorgehäuse:
+4x M6x20
+
+
+Antrieb (Gehäuse) an Halterung:
+
+4x M6x10 (Distanz: 10)
+
+
+Lagerung Außen (nach oben):
+M5x25
+
+Lagerung Innen (nach unten):
+M5x35 (distanz: 36,6)
