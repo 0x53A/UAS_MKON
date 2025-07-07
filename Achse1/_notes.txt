@@ -1,0 +1,9 @@
+
+
+Distanz Motor Außenwand -> Schnecke Zentrum: 42.925 mm
+
+ChatGPT: distance center of gear ring to worm shaft: 90mm
+
+==> Distanz center to outer wall: 132,925 mm
+
+(+16 mm !!!)
