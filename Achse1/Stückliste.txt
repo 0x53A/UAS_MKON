@@ -1,0 +1,13 @@
+1.1.3.2 Flansch Boden x1
+1.1.3.3 Flansch Oben x1
+1.1.1.4 Befestigung Antrieb x1
+1.1.1.2.2 Welle x1
+1.1.1.2.4 Deckel x1
+1.1.2.2 Spiegel x1
+1.1.2.4 Flansch x1
+1.1.2.1 Winkel x1
+
+M6x20 Schraube x4
+M6x10 Schraube x4
+M5x25 Schraube x10
+M5x35 Schraube x10
